@@ -10,5 +10,4 @@ On my personal projects and studies, I also used **MySQL**, **PHP**, **JavaScrip
 
 I’m currently working at **CustomerX** 💜️, as a Junior Full Stack Developer.
 
-I love learning new things, meeting interesting people and I surely love what I do!
-🤩️
+I love learning new things, meeting interesting people and I surely love what I do! 🎉️
